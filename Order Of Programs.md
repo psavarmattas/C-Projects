@@ -10,3 +10,4 @@
 |8         | MaximumNo3.c | MaximumNo3.exe | WAP to find maximum out of three number using conditional operator |
 |9         | DataTypeSize.c | DataTypeSize.exe | WAP to check size of following data types: char,int,float, double |
 |10        | BitwiseOperators.c | BitwiseOperators.exe | WAP to perform bitwise operators |
+|11        | LogicalOperator.c | LogicalOperator.exe | WAP for logical operators |

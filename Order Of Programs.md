@@ -11,3 +11,4 @@
 |9         | DataTypeSize.c | DataTypeSize.exe | WAP to check size of following data types: char,int,float, double |
 |10        | BitwiseOperators.c | BitwiseOperators.exe | WAP to perform bitwise operators |
 |11        | LogicalOperator.c | LogicalOperator.exe | WAP for logical operators |
+|12        | SolveExpression2.c | SolveExpression2.exe | WAP to solve given expression "ans=a + b - (c*d) / f + g" |

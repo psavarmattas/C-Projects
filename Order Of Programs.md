@@ -12,4 +12,4 @@
 |10        | BitwiseOperators.c | BitwiseOperators.exe | WAP to perform bitwise operators |
 |11        | LogicalOperator.c | LogicalOperator.exe | WAP for logical operators |
 |12        | SolveExpression2.c | SolveExpression2.exe | WAP to solve given expression "ans=a + b - (c*d) / f + g" |
-|13        | SolveExpression3.c | SolveExpression3.exe | WAP to solve given expression "ans=a + b - (c*d) / f + g" |
+|13        | SolveExpression3.c | SolveExpression3.exe | WAP to solve given expression "ans = a / (a+b) - [ d * e / (f*g)]" |

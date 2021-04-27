@@ -1,4 +1,4 @@
-// WAP to search an element in an array using Linear Sort.
+// WAP to search an element in an array using Linear Search.
 
 void main() {
     int a[10], i, item, n;
@@ -13,7 +13,7 @@ void main() {
         scanf("%d", &a[i]);
     }
 
-    // Liner Sort Algorithm:
+    // Liner Search Algorithm:
     printf("\n Enter item to search: \n");
     scanf("%d", &item); 
     for (i=0; i<=n; i++) {

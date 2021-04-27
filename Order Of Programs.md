@@ -19,3 +19,4 @@
 |17        | PositiveOrNegative.c | PositiveOrNegative.exe | WAP to find out a given number is positive, negative or 0 |
 |18        | Grade.c | Grade.exe | Use else if ladder statements to find out the result grade from the percentage (Mentioned in file of the program) |
 |19        | Admission.c | Admission.exe | to find the eligibility of admission for a professional course based on the following criteria (Mentioned in file of the program) |
+|20        | QuadraticEquatic. | QuadraticEquatic.exe | WAP to calculate the root of a Quadratic Equation |

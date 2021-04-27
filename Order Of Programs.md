@@ -14,3 +14,4 @@
 |12        | SolveExpression2.c | SolveExpression2.exe | WAP to solve given expression "ans=a + b - (c*d) / f + g" |
 |13        | SolveExpression3.c | SolveExpression3.exe | WAP to solve given expression "ans = a / (a+b) - [ d * e / (f*g)]" |
 |14        | AgeCheck.c         | AgeCheck.exe         | WAP to check your age > 18 or not (using if else statement) |
+|15        | MaximumNo2.c | MaximumNo2.exe | WAP to find out maximum out of two numbers |

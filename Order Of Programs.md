@@ -16,3 +16,4 @@
 |14        | AgeCheck.c         | AgeCheck.exe         | WAP to check your age > 18 or not (using if else statement) |
 |15        | MaximumNo2.c | MaximumNo2.exe | WAP to find out maximum out of two numbers |
 |16        | MaximumNo4.c | MaximumNo4.exe | WAP to find out maximum out of three numbers using nested if..else |
+|17        | PositiveOrNegative.c | PositiveOrNegative.exe | WAP to find out a given number is positive, negative or 0 |

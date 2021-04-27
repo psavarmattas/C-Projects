@@ -21,3 +21,4 @@
 |19        | Admission.c | Admission.exe | to find the eligibility of admission for a professional course based on the following criteria (Mentioned in file of the program) |
 |20        | QuadraticEquatic. | QuadraticEquatic.exe | WAP to calculate the root of a Quadratic Equation |
 |21        | Triangle.c | Triangle.exe | WAP to check whether a triangle can be formed by the given value for the angles |
+|22        | Calculator.c | Calculator.exe | Write a menu driven program for calculator |

@@ -27,3 +27,4 @@
 |25        | Array.c | Array.exe | WAP to print out an array of dynamic values |
 |26        | ArrayReverse.c | ArrayReverse.exe | WAP to print out an array of dynamic values in reverse order |
 |27        | BubbleSort.c | BubbleSort.exe | WAP to sort an array using bubble sort |
+|28        | LinearSearch. | LinearSearch.exe | WAP to search an element in an array using Linear Sort |

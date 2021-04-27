@@ -29,3 +29,4 @@
 |27        | BubbleSort.c | BubbleSort.exe | WAP to sort an array using bubble sort |
 |28        | LinearSearch.c | LinearSearch.exe | WAP to search an element in an array using Linear Search |
 |29        | BinarySearch.c | BinarySearch.exe | WAP to search an element in an array using Binary Search |
+|30        | SelectionSort.c | SelectionSort.exe | WAP to sort an array using selection sort |

@@ -24,3 +24,4 @@
 |22        | Calculator.c | Calculator.exe | Write a menu driven program for calculator |
 |23        | MultiplicationTable.c | MultiplicationTable.exe | WAP to print the multiplication table for a given number |
 |24        | Divisible.c | Divisible.exe | WAP to find an addition of numbers which are >30, <100 & divisible by 7 |
+|25        | Array.c | Array.exe | WAP to print out an array of dynamic values |

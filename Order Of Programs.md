@@ -30,3 +30,5 @@
 |28        | LinearSearch.c | LinearSearch.exe | WAP to search an element in an array using Linear Search |
 |29        | BinarySearch.c | BinarySearch.exe | WAP to search an element in an array using Binary Search |
 |30        | SelectionSort.c | SelectionSort.exe | WAP to sort an array using selection sort |
+|31        | StackUsingLinkedList.c | StackUsingLinkedList.exe | WAP to Implement a Stack using Linked List |
+|32        | SinglyLinkedList.c | SinglyLinkedList.exe | WAP to implement singly linked lists |

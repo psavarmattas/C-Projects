@@ -32,3 +32,4 @@
 |30        | SelectionSort.c | SelectionSort.exe | WAP to sort an array using selection sort |
 |31        | StackUsingLinkedList.c | StackUsingLinkedList.exe | WAP to Implement a Stack using Linked List |
 |32        | SinglyLinkedList.c | SinglyLinkedList.exe | WAP to implement singly linked lists |
+|33        | QueueUsingLinkedList.c | QueueUsingLinkedList.exe | WAP to implement a Queue using Linked List |
